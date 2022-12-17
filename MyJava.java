@@ -26,3 +26,4 @@ System.out.println("The average of the List is: " + sum/(float)list.size());
 }  
 }  
 }  
+
